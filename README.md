@@ -2,8 +2,8 @@
 
 This repo contains multiple folders, under which you will find issues and bugs. You can start working on any of the projects and create PR's for them.
 
-[hck][HacktoberFest '19 by DigitalOcean]
-Links to other issues tagged [lk][#hacktoberfest] which you can work on
+[HacktoberFest '19 by DigitalOcean][hck]
+Links to other issues tagged [#hacktoberfest][lk] which you can work on
 
 # Important information
 
@@ -37,8 +37,8 @@ As this repo will be forked by multiple people, make sure to navigate to the "Is
 -   Navigate to the Pull Requests tab, and create your Pull Request.
 
 # Useful Links
-- [pr][Pull Requests and how to create them]
-- [git][Git commands and about them]
+- [Pull Requests and how to create them][pr]
+- [Git commands and about them][git]
 
 # Additional Issues on existing projects built by the ACM team members
 - https://github.com/Irfan-S/GitHub-PR-Counter

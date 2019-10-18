@@ -69,4 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 Submitted by [Manavi Pai][lk]
+
 [lk]: https://github.com/ManaviPai

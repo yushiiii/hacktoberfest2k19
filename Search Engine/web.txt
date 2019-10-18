@@ -1,0 +1,9 @@
+youtube.com	
+facebook.com
+wikipedia.org
+amazon.com
+twitter.com
+niit.com
+stackoverflow.com
+github.com
+nkyoung.com

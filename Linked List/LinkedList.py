@@ -1,3 +1,6 @@
+import sys
+import pyfiglet
+import time
 class Node:
     def __init__(self, data):
        self.data = data
@@ -29,3 +32,9 @@ for i in range(n):
     a_llist.append(data)
 print('The linked list: ', end = '')
 a_llist.display()
+
+time.sleep(10)
+decision =input(pyfiglet.figlet_format('Do you wish to exit?',font='3-d'))
+if decision == 'YES' or 'y' or 'Yes' or 'yes':
+    sys.exit()
+

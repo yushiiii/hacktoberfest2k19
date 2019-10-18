@@ -36,3 +36,7 @@ Based on Scotch.io's [Tutorial](https://scotch.io/tutorials/build-a-crud-web-app
 
 ### Roles Page
 ![Roles View](https://raw.githubusercontent.com/littlewonder/squadmaster/master/screenshots/roles-view.png)
+
+
+Submitted by [Nitin][Ni]
+[Ni]:https://github.com/nithinb99

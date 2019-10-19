@@ -1,3 +1,4 @@
+#written by divyam
 print("Enter 'x' for exit.")
 print("enter 1 to generate 2 to check")
 p=input()

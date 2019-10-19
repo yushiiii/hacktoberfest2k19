@@ -32,7 +32,7 @@ def equlbut():
      operator=''
 def equlbut():
      global operator
-     div=float(eval((operator)))
+     div=float(eval(str(operator)))
      textin.set(div)
      operator=''
 

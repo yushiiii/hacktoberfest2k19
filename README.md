@@ -17,7 +17,14 @@ As this repo will be forked by multiple people, make sure to navigate to the "Is
 
     ```git
     git clone <Enter-your-fork's-url-here>
-    ```
+#Starting by using git:
+-	Copy the link of the forked repository which is to be cloned.
+-	Open git bash in the desired folder
+-	type: git clone "address which was earlier copied"
+-	Make the required changes which you want to do.
+-	After saving it open bash again and type: git add --all
+-	Then type: git commit -m "Here mention what you've done"
+-	type: git push    ```
 
 - After cloning, navigate to the issue that you resolve and start coding!
 
@@ -48,3 +55,4 @@ As this repo will be forked by multiple people, make sure to navigate to the "Is
 [lk]:https://github.com/search?l=&o=desc&q=label%3Ahacktoberfest+state%3Aopen&s=updated&type=Issues
 [git]:http://guides.beanstalkapp.com/version-control/common-git-commands.html
 [pr]:https://help.github.com/en/articles/creating-a-pull-request
+

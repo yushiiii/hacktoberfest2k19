@@ -8,7 +8,7 @@
 
 ## A few resources to get you started
 
-- if you haven't installed pyhton the do so [here](https://www.python.org/downloads)
+- if you haven't installed python the do so [here](https://www.python.org/downloads)
 - to know more about [Graphical user interface with Tk](https://docs.python.org/3/library/tk.html)
 - if you don't know the game check it [here](https://playtictactoe.org)
 

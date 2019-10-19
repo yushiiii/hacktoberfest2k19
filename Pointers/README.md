@@ -1,0 +1,11 @@
+# Pointers
+
+Find the error, and fix it.
+
+CONDITION:you are supposed to change only the RHS OF CONDITIONAL STATEMENTS LIKE IF
+STATEMENT
+
+ALSO PRINT THE VALUE OF PTR3 WHICH CLEARLY STATES THE PTR3 VARIABLE IN THE PRINTF
+STATEMENT
+
+Built by Karthik

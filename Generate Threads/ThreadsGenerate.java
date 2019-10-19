@@ -42,7 +42,6 @@ class generate implements Runnable
                 System.out.println("Number generated: "+num);
                 Thread t1= new Thread(new square(num));
                 t1.start();
-               
     }
 }
 
@@ -60,8 +59,7 @@ public class ThreadsGenerate
                 Thread.sleep(1000); //Find the error in this given line -- sleep should be prefixed by thread
             }
         }
-
-        catch(Exception e)
+         catch(Exception e)
         {
             System.out.println(e);
         }

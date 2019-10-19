@@ -5,6 +5,9 @@ body{
 	color:#2c3e50;
 	background-color:#c5d3ea;
 }
+.zoom:hover {
+	transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
   
   
 

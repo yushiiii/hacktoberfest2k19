@@ -1,3 +1,13 @@
+## Difficulty Level
+```
+Easy
+```
+## Issues
+```
+There are certain errors with the dependencies in the various .js files in the src folder. Find and correct those errors to get the React code running for a simple Todo List.
+```
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

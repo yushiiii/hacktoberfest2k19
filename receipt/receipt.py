@@ -16,4 +16,4 @@ customer_one_itemization += customer_one_itemization + luxurious_lamp_descriptio
 customer_one_tax = customer_one_total * sales_tax
 customer_one_total += customer_one_total + customer_one_tax
 print("Customer One Items: " + customer_one_itemization)
-print("Customer One Total: " + str(customer_one_total))
+print("Customer One Total: " + (customer_one_total))
